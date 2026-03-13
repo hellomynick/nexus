@@ -6,3 +6,5 @@ edition = "2024"
 [dependencies]
 tokio = {version = "1.50.0"}
 axum = {version = "0.8.8"}
+itoa = {version = "1.0.17"}
+ryu = {version = "1.0.23"}

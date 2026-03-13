@@ -241,6 +241,8 @@ name = "nexus"
 version = "0.1.0"
 dependencies = [
  "axum",
+ "itoa",
+ "ryu",
  "tokio",
 ]
 
