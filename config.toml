@@ -1,0 +1,7 @@
+[server]
+port = 9320
+host = "0.0.0.0"
+[hls]
+ram_disk_path = "dev/shm/hsl"
+chunk_duration = 3
+buffer_size = 6
